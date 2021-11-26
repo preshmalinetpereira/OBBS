@@ -1,2 +1,2 @@
 # OBBS
-Application for Educational purpose
+Just trying things out
